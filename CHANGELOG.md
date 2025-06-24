@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-16)
+## Unreleased (2025-06-24)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`2773163`](https://github.com/stdlib-js/stdlib/commit/2773163cd9baa364dcfe3c070afcc00bf4e98c27) - **chore:** update initial value and clean-up _(by Philipp Burckhardt)_
+-   [`28a6474`](https://github.com/stdlib-js/stdlib/commit/28a64749d12c05ecd840af6f5a4e14a343c6efc0) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`d9f8189`](https://github.com/stdlib-js/stdlib/commit/d9f8189f537a107f8247d2071bac26926ad60ca2) - **chore:** fix indentation _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`89e005a`](https://github.com/stdlib-js/stdlib/commit/89e005ad5004d32271fe7266e95eb96187c1946a) - **chore:** minor clean-up _(by Philipp Burckhardt)_
