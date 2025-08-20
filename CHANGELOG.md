@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-24)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`cedc9bb`](https://github.com/stdlib-js/stdlib/commit/cedc9bb0f92c950200128079cac8ab1da99ec7ed) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`2773163`](https://github.com/stdlib-js/stdlib/commit/2773163cd9baa364dcfe3c070afcc00bf4e98c27) - **chore:** update initial value and clean-up _(by Philipp Burckhardt)_
 -   [`28a6474`](https://github.com/stdlib-js/stdlib/commit/28a64749d12c05ecd840af6f5a4e14a343c6efc0) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`d9f8189`](https://github.com/stdlib-js/stdlib/commit/d9f8189f537a107f8247d2071bac26926ad60ca2) - **chore:** fix indentation _(by Philipp Burckhardt)_
